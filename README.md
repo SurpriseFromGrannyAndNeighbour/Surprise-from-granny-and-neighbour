@@ -25,7 +25,6 @@ You can at any time withdraw your consent to the collection and processing of da
 Third-party advertisers (and the advertising networks they use) that host advertising in the Services can use cookies and related technologies to store information or read information from your browser or device. Technologies used for this purpose may include: cookies; web beacons; pixel tracking; and / or local shared objects (also known as Flash cookies). To learn more, check out the privacy policies of the services that are used to display ads in our applications:
 
 [Applovin](https://www.applovin.com/privacy/)
-
 [Unity](https://unity3d.com/en/legal/privacy-policy)
 
 
