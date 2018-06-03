@@ -26,7 +26,7 @@ Third-party advertisers (and the advertising networks they use) that host advert
 
 Applovin - [https://www.applovin.com/privacy/](https://www.applovin.com/privacy/)
 
-Unity - [https://unity3d.com/en/legal/privacy-policy](https://unity3d.com/en/legal/privacy-policy)
+Unity - [https://unity3d.com/legal/privacy-policy](https://unity3d.com/en/legal/privacy-policy)
 
 
 ### Refusal to collect data
