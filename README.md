@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+# Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/SurpriseFromGrannyAndNeighbour/Surprise-from-granny-and-neighbour/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## What information does the application receive and how is it used?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Information Collection and Use
 
-### Markdown
+The application collects certain information about the device, including the following:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Device, model;
+- Device properties related to the size and orientation of the screen, volume and battery;
+-	Operating system;
+- Graphical API.
+- The number of system and video memory.
+- Country, time zone settings (country and preferred language);
+- Network connection type and speed;
+- IP address;
+- Device ID for advertisers.
 
-```markdown
-Syntax highlighted code block
+This information will help us and advertisers to adapt games and advertising to players and their devices, such as providing advertisements for specific device types, player languages, and game preferences.
 
-# Header 1
-## Header 2
-### Header 3
+You can at any time withdraw your consent to the collection and processing of data. For more details, see "Refusal to collect data".
 
-- Bulleted
-- List
+### Policy of data storage, management of your information
 
-1. Numbered
-2. List
+Third-party advertisers (and the advertising networks they use) that host advertising in the Services can use cookies and related technologies to store information or read information from your browser or device. Technologies used for this purpose may include: cookies; web beacons; pixel tracking; and / or local shared objects (also known as Flash cookies). To learn more, check out the privacy policies of the services that are used to display ads in our applications:
+https://www.applovin.com/privacy/
+https://unity3d.com/en/legal/privacy-policy
 
-**Bold** and _Italic_ and `Code` text
+### Refusal to collect data
 
-[Link](url) and ![Image](src)
-```
+When you start playing a new free game to the game, you will be presented with a choice of evasion and communication with the Privacy Policy. This will appear on the first ad that you see in every game. The second way to abandon our collection of information from mobile devices, please go to your device's settings to set the "Limit the advertising track" or other similar function on your device. The third way to abandon our collection of information from mobile devices, in the privacy settings of the application. You can also opt-out of data collection and use them in the process, each time an announcement appears in the game, You can get access and change the privacy setting using the "ℹ" icon or "hand" icon in the advertisement.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Thus, the collected information will not be maintained or used by us or third parties.
 
-### Jekyll Themes
+Please note: if you opt out, you will still see ads on your device, but it will only be random, non-targeted ads that are less relevant to your interests.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SurpriseFromGrannyAndNeighbour/Surprise-from-granny-and-neighbour/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Children
 
-### Support or Contact
+We do not use the Application to knowingly request data or sell them to children under 13 years of age. If a parent or guardian finds out that his or her child has provided us with information without their consent, he or she should contact us at reanomlo780@gmail.com.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Changes
+
+This privacy policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting a new Privacy Policy here and informing you of the text message in the application. It is recommended that you regularly consult this Privacy Policy for any changes, as continued use is considered approval of all changes.
+
+### Contact us
+
+If you have any questions regarding privacy when using the Application, please contact us by e-mail: reanomlo780@gmail.com.
+
+
+
